@@ -2034,14 +2034,15 @@ ul.icons-list li i {
 
 
 .section {
-    padding-top: 20px;
+    padding-top: 10px;
     padding-bottom: 20px;
 }
 
 .service {
     /*padding-top: 80px;
     padding-bottom: 60px;*/
-	
+	background: url(../images/patterns/4.png) repeat;
+	/*background: #A6E4D3;*/
 }
 
 .icon-small {
@@ -2501,12 +2502,11 @@ ul.icons-list li i {
 }
 
 .image-service-box p {
-	padding: 0 10px;
+	padding: 0 10px 20px 10px;
 }
 
 .service-box {
 	margin-bottom: 35px;
-
 }
 
 .service-center {
